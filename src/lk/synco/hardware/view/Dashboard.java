@@ -603,7 +603,7 @@ public class Dashboard extends javax.swing.JFrame {
 
         jPanel12.setBackground(new java.awt.Color(51, 51, 51));
 
-        jXLabel33.setBackground(new java.awt.Color(255, 153, 102));
+        jXLabel33.setBackground(new java.awt.Color(102, 153, 255));
         jXLabel33.setForeground(new java.awt.Color(255, 255, 255));
         jXLabel33.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
         jXLabel33.setText("System");
